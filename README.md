@@ -1,2 +1,1 @@
-# HTML5-1-Test
-1st try, just starting to crawl!
+This is my first attempt at learning HTML5, focusing on simple tags such as headings, paragraphs, links, images, and basic page structure. The goal of this project is to understand how HTML works and build a foundation for web development.
